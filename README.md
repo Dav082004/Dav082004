@@ -42,11 +42,10 @@
   <a href="https://www.notion.com/" target="_blank"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
 <p align= "center">
 </p>
-
-------
-
-[Dav20044](https://github.com/Dav20044)
