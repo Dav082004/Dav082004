@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi 👋, I'm David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1>
 <h3 align="center">GitHub Campus Expert | Systems Engineering Student | Cybersecurity & Software Development Enthusiast</h3>
-
-<p align="center">
-  <img height="120" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Octocat" />
-</p>
 
 ---
 
