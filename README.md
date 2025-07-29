@@ -4,10 +4,15 @@
 ---
 
 🎓 I'm currently studying **Systems Engineering and Computer Science** at **Universidad Tecnológica del Perú**  
+
 🚩 Selected as a **GitHub Campus Expert** — building inclusive tech communities and sharing knowledge  
+
 🔐 Passionate about **Cybersecurity**, **Web Development**, and **Project Management**  
+
 🌱 Currently learning more about **Spring Boot, React, and DevOps fundamentals**  
+
 🛠️ I enjoy leading and building collaborative projects with multidisciplinary teams  
+
 📣 Organizer and active member of **DSC UTP**, where we run events and workshops focused on new technologies  
 
 ---
