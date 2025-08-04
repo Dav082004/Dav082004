@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1>
 
----
-
 🎓 I'm currently studying **Systems Engineering and Computer Science** at **Universidad Tecnológica del Perú**  
 
 🚩 Selected as a **GitHub Campus Expert** — building inclusive tech communities and sharing knowledge  
