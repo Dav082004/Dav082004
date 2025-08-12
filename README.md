@@ -23,7 +23,6 @@
 - 🔧 **Tech Stack:** GitHub Actions, Gemini AI CLI, JavaScript, YAML
 - ⚡ **Features:** Automated issue triage, AI code reviews, 24/7 technical assistant
 - 🎯 **Impact:** 3 complete workflows demonstrating AI integration in development processes
-- 🌐 **Demo:** [Live TaskFlow Manager](https://dav082004.github.io/TallerGeminiCLIActions/)
 
 ### 🤝 [Collaborative Repository Platform](https://github.com/Dav082004/RepoColaborativo)
 **Open Source Learning Community**
@@ -47,8 +46,6 @@
   <a href="https://www.credly.com/badges/abbf9bb6-a23c-4ed5-b4cc-d48d67bf46b2/public_url" target="_blank">
     <img src="https://img.shields.io/badge/GitHub_Copilot-Challenge_Winner-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot Challenge"/>
   </a>
-  <img src="https://img.shields.io/badge/GitHub-Campus_Expert-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Campus Expert"/>
-  <img src="https://img.shields.io/badge/DSC_UTP-Organizer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="DSC UTP Organizer"/>
 </p>
 
 ---
@@ -88,12 +85,6 @@
 ---
 
 ## 🌟 Open Source & Community Impact
-
-### **🎯 As GitHub Campus Expert:**
-- 🗣️ **Organized 15+ tech workshops** reaching 500+ students
-- 📚 **Created educational content** on GitHub workflows and best practices
-- 🤝 **Mentored 50+ developers** in open source contribution
-- 🌍 **Built inclusive tech communities** promoting diversity in tech
 
 ### **📈 Notable Contributions:**
 - 🤖 **AI-powered automation workflows** - Pioneering AI integration in development processes
