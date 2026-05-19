@@ -75,11 +75,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dav082004&show_icons=true&theme=tokyonight" alt="David's GitHub stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav082004&layout=compact&theme=tokyonight" width="350"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dav082004&theme=tokyonight" alt="David's GitHub Streak"/>
 </p>
 
