@@ -4,11 +4,11 @@
 
 🎓 I'm currently studying **Systems Engineering and Computer Science** at **Universidad Tecnológica del Perú**  
 
-🚩 Selected as a **GitHub Campus Expert** — building inclusive tech communities and sharing knowledge  
+🚩 Selected as a **GitHub Campus Expert**, building inclusive tech communities and sharing knowledge  
 
 🔐 Passionate about **Cybersecurity**, **Web Development**, and **Project Management**  
 
-🌱 Currently learning more about **Spring Boot, React, and DevOps fundamentals**  
+🌱 Currently learning more about **DevOps fundamentals**  
 
 🛠️ I enjoy leading and building collaborative projects with multidisciplinary teams  
 
@@ -18,36 +18,24 @@
 
 ## 🎯 Featured Projects
 
+### 🎓 [IEEE CS UNAP Workshop](https://github.com/Dav082004/IEEE-CS-UNAP-Workshop)
+**Collaborative Git & GitHub Workshop** · ⭐ 3 · 🍴 31
+- 🔧 **Tech Stack:** HTML, GitHub Pages, Git
+- ⚡ **Features:** Hands-on collaborative learning, open-source contributions workflow
+- 🎯 **Impact:** Community workshop with 31 participants contributing via forks
+- 🌐 **Demo:** [Live Page](https://dav082004.github.io/IEEE-CS-UNAP-Workshop/)
+
+### 🤖 [GitHub Copilot & MCP Server](https://github.com/Dav082004/DevFestIca25-Activity1)
+**AI-Powered Developer Tools Workshop** · ⭐ 4
+- 🔧 **Tech Stack:** GitHub Copilot, MCP Server, GitHub Actions
+- ⚡ **Features:** Agent-based automation, MCP server integration, AI-assisted development
+- 🎯 **Impact:** Demonstrated GitHub Copilot + MCP Server integration at Google DevFest Ica 2025
+
 ### 🤖 [Gemini CLI GitHub Actions Workshop](https://github.com/Dav082004/TallerGeminiCLIActions)
 **AI-Powered Development Automation**
 - 🔧 **Tech Stack:** GitHub Actions, Gemini AI CLI, JavaScript, YAML
 - ⚡ **Features:** Automated issue triage, AI code reviews, 24/7 technical assistant
 - 🎯 **Impact:** 3 complete workflows demonstrating AI integration in development processes
-
-### 🤝 [Collaborative Repository Platform](https://github.com/Dav082004/RepoColaborativo)
-**Open Source Learning Community**
-- 🔧 **Tech Stack:** Vanilla JavaScript, CSS3, GitHub Pages, Automated CI/CD
-- ⚡ **Features:** Automated PR validation, community contributions, real-time deployment
-- 🎯 **Impact:** Educational platform for teaching Git workflows and open source collaboration
-- 🌐 **Demo:** [Live Community Page](https://dav082004.github.io/RepoColaborativo)
-
-### 🍰 [Como en Casa - Bakery Management System](https://github.com/Dav082004/ComoEnCasa)
-**Full-Stack Enterprise Web Application**
-- 🔧 **Tech Stack:** React, Spring Boot, MySQL, PayPal API, Docker
-- ⚡ **Features:** Order management, payment integration, inventory control, automated reporting
-- 🎯 **Impact:** Complete business digitalization with 348+ unit tests and 87% code coverage
-- 🏗️ **Architecture:** MVC pattern, SOLID principles, TDD methodology
-
----
-
-## 🏆 Certifications & Achievements
-
-<p align="center">
-  <a href="https://www.credly.com/badges/abbf9bb6-a23c-4ed5-b4cc-d48d67bf46b2/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Copilot-Challenge_Winner-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot Challenge"/>
-  </a>
-</p>
-
 ---
 
 ## 🔗 Connect with me
@@ -84,15 +72,6 @@
 
 ---
 
-## 🌟 Open Source & Community Impact
-
-### **📈 Notable Contributions:**
-- 🤖 **AI-powered automation workflows** - Pioneering AI integration in development processes
-- 📖 **Educational repositories** - Teaching Git/GitHub to Spanish-speaking developers
-- 🔧 **Enterprise-grade applications** - Full-stack solutions with comprehensive testing
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -104,31 +83,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dav082004&theme=tokyonight" alt="David's GitHub Streak"/>
 </p>
 
----
-
-## 💼 What I Can Bring to Your Team
-
-✅ **Full-Stack Development** - End-to-end application development with modern technologies  
-✅ **Leadership & Mentoring** - Experience leading technical teams and mentoring developers  
-✅ **AI Integration** - Practical experience implementing AI-powered automation workflows  
-✅ **Quality Assurance** - TDD methodology and comprehensive testing strategies  
-✅ **Community Building** - Proven track record in tech community development  
-✅ **Continuous Learning** - Always staying current with emerging technologies  
-
----
-
-## 📬 Let's Collaborate!
-
-I'm always excited to work on innovative projects and contribute to meaningful solutions. Whether you're looking for:
-
-🚀 **A full-stack developer** for your next web application  
-🤖 **AI automation expertise** to optimize your development workflows  
-👥 **Technical leadership** for your development team  
-🌍 **Community partnership** for tech events and workshops  
-
-**Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/davidcontreraspalacios/) or check my pinned projects below!**
-
----
-
-### ✨ Fun Fact
-I love to teach and learn by building real-world projects. You'll probably find me mentoring a team, trying a new framework at midnight, or organizing a workshop with friends. When I'm not coding, I'm probably planning the next tech event or exploring how AI can make developers' lives easier! 🤖☕
